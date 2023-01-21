@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eka1</string>
+    <string name="plussa">+</string>
+    <string name="miinus">-</string>
+    <string name="kerto">*</string>
+    <string name="jako">/</string>
+    <string name="laskin">Laskin</string>
+    <string name="numero">Numero</string>
+    <string name="tokaluku">Toinen luku</string>
+    <string name="ekaluku">Eka Luku</string>
+</resources>
